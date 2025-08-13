@@ -1,5 +1,5 @@
 body {
-  background: #fff8f9; /* super soft pinkish white */
+  background: #fff8f9;
   font-family: 'Comic Sans MS', cursive, sans-serif;
   text-align: center;
   padding: 40px;
@@ -10,13 +10,13 @@ body {
   position: relative;
   overflow: hidden;
 
-  background-color: #ffeef2; /* pastel baby pink */
-  border: 2px solid #f7c6d3; /* light pink border */
+  background-color: #ffeef2; 
+  border: 2px solid #f7c6d3;
   border-radius: 20px;
   padding: 25px;
   margin: 20px auto;
   max-width: 400px;
-  box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3); /* soft pink shadow */
+  box-shadow: 0 6px 12px rgba(255, 182, 193, 0.3);
 
   transition: all 0.3s ease;
 }
@@ -52,7 +52,7 @@ input[type="text"] {
   font-size: 16px;
   outline: none;
   transition: border-color 0.3s ease;
-  background-color: #fff0f5; /* very light pink */
+  background-color: #fff0f5;
   position: relative;
   z-index: 1;
 }
@@ -71,7 +71,7 @@ button {
   cursor: pointer;
   transition: background-color 0.3s ease;
   margin-left: 10px;
-  color: #6b4c59; /* soft mauve-ish */
+  color: #6b4c59;
   font-weight: 600;
   position: relative;
   z-index: 1;
@@ -146,3 +146,4 @@ footer {
   padding: 8px 0;
   border-radius: 0 0 20px 20px;
 }
+
